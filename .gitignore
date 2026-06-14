@@ -1,0 +1,7 @@
+target/
+*.class
+*.jar
+.idea/
+__pycache__/
+*.pyc
+.DS_Store
